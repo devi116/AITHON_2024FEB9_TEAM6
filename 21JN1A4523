@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1 align="center"</h1>FAKE NEWS DETECTION</center></h1>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FAKE NEWS DETECION</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+
+    .row {
+      display: flex;
+      justify-content: space-around;
+      padding: 20px;
+    }
+
+    .column {
+      flex: 1;
+      margin: 15px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      overflow: hidden;
+      transition: box-shadow 0.3s ease-in-out;
+    }
+
+    .column:hover {
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    .card img {
+      width: 20%;
+      height: 20%;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .container {
+      padding: 20px;
+      text-align: center;
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    .title {
+      color: #777;
+    }
+
+    .button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 5px 10px;
+      border: none;
+      border-radius: 2px;
+      cursor: pointer;
+    }
+
+    .button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+<div class="column">
+    <div class="column">
+      <div class="card">
+        <img src="C:\Users\91812\Downloads\WhatsApp Image 2024-02-10 at 11.43.01 AM.jpeg"alt="DEVI.Y">
+        <div class="container">
+          <h2>DEVI.Y</h2>
+          <p>ROLE:FRONTEND</p>
+        </div>
+      </div>
+    </div>
+  
+    <div class="column">
+      <div class="card">
+        <img src="C:\Users\91812\Downloads\WhatsApp Image 2024-02-10 at 11.41.22 AM.jpeg"alt="KANAKAMAHALAKSHMI.K">
+        <div class="container">
+          <h2>KANAKAMAHALAKSHMI.K</h2>
+          <p>ROLE: FRONTEND</p>
+        </div>
+      </div>
+    </div>
+  
+    <div class="column">
+      <div class="card">
+        <img src="C:\Users\91812\Downloads\WhatsApp Image 2024-02-10 at 11.41.53 AM.jpeg"alt="HARITHA.M">
+        <div class="container">
+          <h2>HARITHA.M</h2>
+          <p>ROLE : CONNECTION</p>
+        </div>
+      </div>
+    </div>
+    <div class="column">
+      <div class="card">
+        <img src="C:\Users\91812\Downloads\WhatsApp Image 2024-02-10 at 11.42.40 AM.jpeg"alt="KOMALIKA.J">
+        <div class="container">
+          <h2>KOMALIKA.J</h2>
+          <h4>ROLE :BACKEND</h4>
+        </div>
+      </div>
+    </div><br>
+    <div class="column">
+      <div class="card"><br>
+        <img src="C:\Users\91812\Downloads\WhatsApp Image 2024-02-10 at 11.42.18 AM.jpeg"alt="VARALAKSHMI.G">
+        <div class="container">
+          <h2>VARALAKSHMI.G</h2>
+          <h4>ROLE : BACKEND</h4>
+        </div>
+      </div>
+    </div>
+    <div class="column">
+      <div class="card"><br>
+        <img src="C:\Users\91812\Downloads\WhatsApp Image 2024-02-10 at 11.44.20 AM.jpeg"alt="KEERTHI PRIYA.V">
+        <div class="container">
+          <h2>KEERTHI PRIYA.V</h2>
+          <h4><b>ROLE : BACKEND</b></h4>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <img src="C:\Users\91812\Downloads\WhatsApp Image 2024-02-10 at 11.43.34 AM.jpeg"alt="NAMITHA.K">
+          <div class="container">
+            <h2>NAMITHA.K</h2>
+            <h4>ROLE :CONNECTION</h4>
+          </div>
+        </div>
+      </div><br>
+    </div>
+    <div class="column">
+      <div class="card"><br>
+        <img src="C:\Users\91812\Downloads\WhatsApp Image 2024-02-10 at 11.44.39 AM.jpeg"alt="BHAVYA.B">
+        <div class="container">
+          <h2>BHAVYA.B</h2>
+          <h4>ROLE:CONNECTION</h4>
+        </div>
+      </div>
+    </div>
+
+</div>
+</body>
+</html>
